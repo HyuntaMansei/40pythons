@@ -2,6 +2,7 @@
 *.xlsl
 *.docx
 *.png
+*.ini
 .idea/
 .vscode/
 
